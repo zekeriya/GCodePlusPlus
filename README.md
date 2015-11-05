@@ -1,2 +1,2 @@
 # GCodePlusPlus
-G-Code For All Industrial Automation
+G-Code with C++ For All Industrial Automation
